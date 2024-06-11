@@ -1,18 +1,12 @@
 <p align="left">
-  <a href="https://github.com/Keichan15">
+  <a href="https://github.com/k4my-git">
     <img height="20" src="https://komarev.com/ghpvc/?username=k4my-git" />
   </a>
-  <a href="https://github.com/Keichan15">
+  <a href="https://github.com/k4my-git">
     <img height="20" src="https://img.shields.io/github/followers/k4my-git?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/Keichan_15">
+  <a href="http://qiita.com/k4my-git">
     <img height="20" src="https://qiita-badge.apiapi.app/s/k4my-git/posts.svg" />
-  </a>
-  <a href="http://qiita.com/Keichan_15">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/k4my-git/contributions.svg" />
-  </a>
-  <a href="https://zenn.dev/keichan_15">
-    <img height="20" src="https://badgen.org/img/zenn/k4my-git/articles?style=plastic" />
   </a>
 </p>
 
